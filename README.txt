@@ -1,4 +1,4 @@
-Below are instructions on how to test Twitter extra credit. I did not do the full extra credit. 
+Below are instructions on how to Tweet Results.
 
 The function generate_tweet can be used just like generate_file. Calling generate_tweet(self, amount) will tweet ‘amount’ many tokens to the twitter handle @dilan_tests. 
 
